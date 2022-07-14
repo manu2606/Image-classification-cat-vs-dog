@@ -1,1 +1,1 @@
-1000 images of cats used for test set
+500 images of cats used for test set
